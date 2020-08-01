@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b06dc2cd389e302d5e1c06564b905ed",
+    "revision": "7a5df490ce8ca128972d6b89dfe734a9",
     "url": "/exercise-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exercise-app/static/css/2.d98961f1.chunk.css"
   },
   {
-    "revision": "b5d7c0cb176ca6cc0c15",
+    "revision": "4fc4227227bffdbbd5b5",
     "url": "/exercise-app/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exercise-app/static/js/2.8401eef0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5d7c0cb176ca6cc0c15",
-    "url": "/exercise-app/static/js/main.643a47ec.chunk.js"
+    "revision": "4fc4227227bffdbbd5b5",
+    "url": "/exercise-app/static/js/main.053f3075.chunk.js"
   },
   {
     "revision": "1df05747499882f6fb00",
